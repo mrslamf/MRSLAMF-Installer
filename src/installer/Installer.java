@@ -14,7 +14,7 @@ public class Installer {
     public static final String PROGRAM_TITLE = "Installer";
     public static final float PROGRAM_VERSION = (float) 2.00;
     public static final String PROGRAM_DATE = "May 30, 2023"; 
-    public static final int TROUBLESHOOTING = 0; // set to zero for normal program operation
+    public static final int TROUBLESHOOTING = 0; // set to zero for normal program operations
 
     public static String fileSep = System.getProperty("file.separator");
     public static String lineSeparator = System.getProperty("line.separator");
